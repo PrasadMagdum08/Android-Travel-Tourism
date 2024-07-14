@@ -2,11 +2,10 @@
 ### **Description:**
 Tourism is a major source of income for the state of Uttarakhand. To give it further boost, the Govt wants to create a tourist friendly application which will have the details of all the char dham and other important places present in the state. The application should also help tourists get local information regarding availability of stay and lodging at partner hotels.Objective:Application to get info about important places and char dham.
 
-### **Organization:**	**Government of Uttarakhand**
-### **Category:**	**Software**
-### **Domain Bucket:**	**Travel & Tourism**
-
-
+### **Organization:**	#### **Government of Uttarakhand**
+### **Category:**	#### **Software**
+### **Domain Bucket:**	#### **Travel & Tourism**
+ 
 1. User Interface Design
 Map Integration: Utilize mapping services like Google Maps or OpenStreetMap to provide detailed navigation routes for each leg of the Char Dham Yatra and other tourist destinations.
 
